@@ -1,0 +1,48 @@
+/**
+* HW-wireframe homework
+**/
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    front-size: 30px;
+    line-height: 28px;
+    color: #333;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+section {
+    padding: 20px
+    margin-bottom: 20px
+    color: #fff;
+}
+
+#left {
+    padding: 20px
+    margin-bottom: 20px;
+    background: #ccc;
+}
+
+#right {
+    padding: 20px
+    margin-bottom: 20px;
+    background: #eee;
+}
+
+#middle {
+    float: 
+    width: 20%;
+    color: eee;
+}
+
+footer {
+    padding: 20px;
+
+}
